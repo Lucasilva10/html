@@ -99,7 +99,7 @@ section{
     img{
         position:static;
         display: block;
-        margin: 0 auto;
+        margin: auto;
     }
 
     .link-header{
