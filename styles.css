@@ -97,7 +97,8 @@ section{
    }
 
     img{
-        position: static;
+        align-items: center;
+        position:absolute;
         display: block;
         margin: 0 auto;
     }
