@@ -81,9 +81,9 @@ section{
         width: 100%;
         height: 50%;
         padding: 0;
-        display: inline;
+        display: block;
         position: fixed;
-        margin: 400px auto;
+        margin:350px auto;
 
     }
 
