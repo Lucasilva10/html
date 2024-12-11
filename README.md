@@ -1,5 +1,6 @@
-<h1>We Care</h1>
+<h1>Neste primeiro site foi criando usando as seguintes tecnologias:</h1>
 <br>
+<p>-HTML</p>
+<p>-CSS</p>
 <br>
-<br>
-<h2>Este foi mais um projeto criado no DevClub</h2>
+<p>E tambem ele é um site responsivo</p>
